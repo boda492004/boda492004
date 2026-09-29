@@ -1,0 +1,7 @@
+<svg width="500" height="240" viewBox="0 0 500 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="240" rx="18" fill="#111827"/>
+  <rect x="30" y="30" width="440" height="180" rx="12" fill="#0F172A" stroke="#38BDF8" stroke-width="2"/>
+  <text x="250" y="100" text-anchor="middle" fill="#E5E7EB" font-size="30" font-family="Segoe UI, Arial" font-weight="700">IoT Project</text>
+  <text x="250" y="135" text-anchor="middle" fill="#9CA3AF" font-size="18" font-family="Segoe UI, Arial">Monitoring • Smart Data • Real-time</text>
+  <rect x="150" y="155" width="200" height="18" rx="9" fill="#38BDF8"/>
+</svg>
